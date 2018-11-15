@@ -2,6 +2,8 @@ version: '3'
 services:
   expresscart:
     image: "node:8"
+    deploy:
+      replicas: 8
     build: .
     container_name: "expresscart"
     environment:
