@@ -1,6 +1,6 @@
 {
-    "cartTitle": "CLOTH",
-    "cartDescription": "expressCart",
+    "cartTitle": "GameKart",
+    "cartDescription": "Gaming Kart",
     "cartLogo": "",
     "baseUrl": "http://localhost:1111",
     "emailHost": "smtp-mail.outlook.com",
@@ -19,8 +19,8 @@
     "footerHtml": "&lt;h4 class=&quot;text-center&quot;&gt;Powered by expressCart&lt;/h4&gt;",
     "googleAnalytics": "",
     "customCss": ".footer{padding-top: 5px;}",
-    "currencySymbol": "£",
+    "currencySymbol": "$",
     "paymentGateway": "stripe",
-    "databaseConnectionString": "mongodb://mongodb:27017/expresscart",
+    "databaseConnectionString": "mongodb://mongodb-service/expresscart",
     "theme": "Cloth"
 }
