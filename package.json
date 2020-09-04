@@ -30,7 +30,7 @@
     "mime-db": "^1.33.0",
     "mime-type": "^3.0.5",
     "moment": "^2.15.2",
-    "mongodb": "2.2.3",
+    "mongodb": "3.6.1",
     "morgan": "^1.9.0",
     "multer": "^1.1.0",
     "nodemailer": "^4.4.1",
